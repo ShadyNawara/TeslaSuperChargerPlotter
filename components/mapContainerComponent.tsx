@@ -30,7 +30,7 @@ export const MapContainer: React.FC = () => {
   };
 
   return (
-    <div className="size-full overflow-hidden rounded bg-[#222] p-8 drop-shadow-lg">
+    <div className="mx-auto h-full w-11/12 overflow-hidden rounded bg-[#222] p-8 drop-shadow-lg">
       <div>
         <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
           Tesla Supercharger Map Plotter
