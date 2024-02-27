@@ -1,0 +1,35 @@
+ChargeStartDateTime,Name,Vin,Model,Country,SiteLocationName,Description,QuantityBase,QuantityTier1,QuantityTier2,QuantityTier3,QuantityTier4,InvoiceNumber,UnitCostBase,UnitCostTier1,UnitCostTier2,UnitCostTier3,UnitCostTier4,VAT,Total Exc. VAT,Total Inc. VAT,Status,Invoice
+2023-12-31T16:29:19-05:00,Name,VIN,my,US,"Florence, KY - Houston Road",CHARGING : PAYMENT,50.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-31T14:10:03-05:00,Name,VIN,my,US,"Columbus, OH - East Campus View Boulevard",CHARGING : PAYMENT,50.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-31T11:33:08-05:00,Name,VIN,my,US,"Macedonia, OH",CHARGING : PAYMENT,65.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-31T09:44:06-05:00,Name,VIN,my,US,"Erie, PA - Perry Highway",CHARGING : PAYMENT,34.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-30T18:19:33-05:00,Name,VIN,my,US,"Fredonia, NY",CHARGING : PAYMENT,30.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-30T06:53:27-05:00,Name,VIN,my,CA,"Oakville, ON",CHARGING : PAYMENT,67.1060 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-27T19:43:37-05:00,Name,VIN,my,CA,"Hamilton, ON",CHARGING : PAYMENT,58.2130 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-27T13:22:02-05:00,Name,VIN,my,CA,"Cobourg, ON",CHARGING : PAYMENT,54.0770 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-27T11:07:40-05:00,Name,VIN,my,CA,"Gananoque, ON",CHARGING : PAYMENT,50.4830 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-22T10:47:13-05:00,Name,VIN,my,CA,"Brossard, QC",CHARGING : PAYMENT,66.0410 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-21T23:48:19-05:00,Name,VIN,my,CA,"Cornwall, ON",CHARGING : PAYMENT,28.7630 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-21T23:40:40-05:00,Name,VIN,my,CA,"Cornwall, ON",CHARGING : PAYMENT,14.8160 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-21T21:52:15-05:00,Name,VIN,my,CA,"Gananoque, ON",CHARGING : PAYMENT,47.2350 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-21T20:25:13-05:00,Name,VIN,my,CA,"Trenton, ON",CHARGING : PAYMENT,40.1380 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-21T16:46:17-05:00,Name,VIN,my,CA,"Mississauga, ON - North Service Road",CHARGING : PAYMENT,58.9530 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-20T11:51:46-05:00,Name,VIN,my,CA,"Hamilton, ON",CHARGING : PAYMENT,39.6580 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-19T21:22:11-05:00,Name,VIN,my,CA,"Toronto, ON - Lakeshore Blvd W (Pay to Park)",CHARGING : PAYMENT,28.5000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-19T18:18:10-05:00,Name,VIN,my,CA,"Toronto, ON - Bay Street (Pay to Park)",CHARGING : PAYMENT,31.4180 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-18T19:11:20-05:00,Name,VIN,my,CA,"Hamilton, ON",CHARGING : PAYMENT,60.2730 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-17T19:02:39-05:00,Name,VIN,my,CA,"Toronto, ON - Lakeshore Blvd W (Pay to Park)",CHARGING : PAYMENT,45.4230 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-16T12:46:15-05:00,Name,VIN,my,CA,"Hamilton, ON",CHARGING : PAYMENT,37.4150 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-16T11:46:52-05:00,Name,VIN,my,CA,"Woodstock, ON",CHARGING : PAYMENT,29.9070 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-16T09:53:20-05:00,Name,VIN,my,CA,"Comber, ON",CHARGING : PAYMENT,27.8010 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-15T05:53:59-05:00,Name,VIN,my,US,"Lima, OH",CHARGING : PAYMENT,55.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-15T03:25:53-05:00,Name,VIN,my,US,"Florence, KY - Houston Road",CHARGING : PAYMENT,57.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-15T01:01:28-05:00,Name,VIN,my,US,"Elizabethtown, KY",CHARGING : PAYMENT,59.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-14T21:13:23-06:00,Name,VIN,my,US,"Nashville, TN - Charlotte Pike",CHARGING : PAYMENT,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-14T19:00:48-06:00,Name,VIN,my,US,"Jackson, TN",CHARGING : PAYMENT,N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-14T16:04:31-06:00,Name,VIN,my,US,"Brinkley, AR",CHARGING : PAYMENT,63.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-14T14:45:15-06:00,Name,VIN,my,US,"Little Rock, AR",CHARGING : PAYMENT,12.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-14T13:03:44-06:00,Name,VIN,my,US,"Hope, AR",CHARGING : PAYMENT,24.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-14T11:51:35-06:00,Name,VIN,my,US,"New Boston, TX",CHARGING : PAYMENT,53.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-13T21:52:44-06:00,Name,VIN,my,US,"Royse City, TX",CHARGING : PAYMENT,57.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
+2023-12-13T20:21:37-06:00,Name,VIN,my,US,"Italy, TX",CHARGING : PAYMENT,38.0000 kwh,0,0,0,0,0,0,0,0,0,0,0,0,0,PAID,https://tesla.com
